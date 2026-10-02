@@ -1,44 +1,32 @@
-### Hi, welcome!!
+<!-- GitHub profile README for Guilherme Hiago Costa dos Santos -->
 
-<!--
-**GuilhermeHiago/GuilhermeHiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2563EB,100:7C3AED&height=230&section=header&text=Guilherme%20Hiago&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&descAlignY=57&descSize=18" alt="Banner do perfil" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-  <a href="https://github.com/GuilhermeHiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHiago&layout=compact&exclude_repo=linuxdistro,kernelLinuxVanila&hide=c,assembly,shell&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Data+Science;Research;Software+Development" alt="Animated Presentation" />
+  </a>
 </div>
 
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2563EB,100:7C3AED&height=230&section=header&text=Guilherme%20Hiago&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Transformando%20ideias%20em%20software&descAlignY=57&descSize=18" alt="Banner do perfil" /> -->
 
-[//]: # "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-[//]: # "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-[//]: # "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+<p align="center">
+  <a href="https://www.linkedin.com/in/gh-santos">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:contactghiago@gmail.com">Email</a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guilherme-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guilherme-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Guilherme-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+<!-- content -->
 
-##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/gh-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:contactghiago@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2563EB,100:7C3AED&height=120&section=footer" alt="Rodapé" />
